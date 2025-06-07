@@ -1,4 +1,12 @@
-# GuidedLabs
+<h2 align = "right"> Select the language:</h2>
+
+[<img align="right"  width="30px" src="https://github.com/yammadev/flag-icons/blob/master/svg/US.svg" />](https://github.com/YuriTBarros/GuidedLabs)
+[<img align="right" width="30px" src="https://github.com/yammadev/flag-icons/blob/master/svg/BR.svg"/>](README-PT-BR.md)
+<p align = "right"> Language:</p>
+
+---
+
+<h1 align = "center"> Guided Labs </h1>
 
 Welcome! 👋  
 This repository contains a collection of complete, guided projects that I'm building as part of my learning journey in areas like:
@@ -33,6 +41,3 @@ Feel free to follow, fork, or reach out with suggestions!
 
 ---
 
-## 📬 Contact
-
-Connect with me on [LinkedIn](https://linkedin.com/in/YOUR-LINK) or check out my blog at [tbarros.com](https://tbarros.com)
