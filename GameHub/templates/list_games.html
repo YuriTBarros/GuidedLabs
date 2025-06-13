@@ -1,15 +1,5 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>{{ title1 }}</title>
-  </head>
-  <body>
-    <div class="container">
-        <div class="page-header">
-            <h1>{{ title1 }}</h1>
-        </div>
+{% extends "base_template.html" %}
+{% block base_construction %}
         <table class="table table-striped table-responsive table-bordered">
             <thead class="thead-default">
                 <tr>
@@ -28,6 +18,4 @@
                 {%endfor%}
             </tbody>
         </table>
-    </div>
-  </body>
-</html>
+{% endblock %}
